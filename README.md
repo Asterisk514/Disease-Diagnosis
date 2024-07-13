@@ -4,7 +4,7 @@ This project leverages the Llava model for disease diagnosis by converting medic
 
 ## Project Overview
 
-Medical diagnosis often relies on the interpretation of images, such as X-rays, MRIs, or photos of skin conditions. Traditionally, this requires the expertise of trained medical professionals. This project aims to assist in the diagnostic process by using an advanced Large Language Model to generate textual descriptions of disease symptoms and possible diagnoses based on input images.
+Medical diagnosis often relies on the interpretation of images, such as X-rays, MRIs, or photos of skin conditions. Traditionally, this requires the expertise of trained medical professionals. This project aims to assist in the diagnostic process by using an advanced Large Multimodal Model to generate textual descriptions of disease symptoms and possible diagnoses based on input images.
 
 ## How It Works
 
