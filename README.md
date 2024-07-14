@@ -8,6 +8,8 @@ Medical diagnosis often relies on the interpretation of images, such as X-rays, 
 
 ## How It Works
 
+![Webpage Demo](./Llava_image.png)
+
 1. **Image Input**: The system accepts an image related to a medical condition.
 2. **Text Generation**: The Llava model, configured with 4-bit quantization for efficiency, processes the image and generates a detailed description.
 3. **Output**: The generated text includes observed symptoms and potential diagnoses, aiding healthcare professionals in decision-making.
@@ -76,5 +78,3 @@ Medical diagnosis often relies on the interpretation of images, such as X-rays, 
    outputs = pipe(image, prompt=prompt, generate_kwargs={"max_new_tokens": 200})
    ```
 
-## Webpage Demo
-![Webpage Demo](./Llava_image.png)
