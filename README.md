@@ -12,7 +12,7 @@ Medical diagnosis often relies on the interpretation of images, such as X-rays, 
 
 1. **Image Input**: The system accepts an image related to a medical condition.
 2. **Text Generation**: The Llava model, configured with 4-bit quantization for efficiency, processes the image and generates a detailed description.
-3. **Output**: The generated text includes observed symptoms and potential diagnoses, aiding healthcare professionals in decision-making.
+3. **Output**: The generated text includes observed symptoms and potential diagnosis, aiding healthcare professionals in decision-making.
 
 ## Features
 
