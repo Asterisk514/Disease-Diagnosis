@@ -75,3 +75,6 @@ Medical diagnosis often relies on the interpretation of images, such as X-rays, 
    ```python
    outputs = pipe(image, prompt=prompt, generate_kwargs={"max_new_tokens": 200})
    ```
+
+## Webpage Demo
+![Webpage Demo](./Llava_image.png)
