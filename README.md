@@ -14,7 +14,7 @@ Medical diagnosis often relies on the interpretation of images, such as X-rays, 
 2. **Text Generation**: The Llava model, configured with 4-bit quantization for efficiency, processes the image and generates a detailed description.
 3. **Output**: The generated text includes observed symptoms and potential diagnoses, aiding healthcare professionals in decision-making.
 
-## Benefits
+## Features
 
 - **Efficiency**: Using 4-bit quantization significantly reduces the computational resources required, making it feasible to run on less powerful hardware.
 - **Speed**: The pipeline provides rapid analysis, which is crucial in medical settings where time is often of the essence.
